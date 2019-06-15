@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "calculator2/Controller/HomeController.swift"
-            timestampString = "582199842.959582"
+            timestampString = "582299980.475402"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
             landmarkName = "setupNumberBtnView()"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "calculator2/Views/NumberBtnView.swift"
-            timestampString = "582199842.960281"
+            timestampString = "582299980.475644"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "273"
-            endingLineNumber = "273"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
             landmarkName = "init(frame:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "calculator2/Controller/HomeController.swift"
-            timestampString = "582199842.9605089"
+            timestampString = "582299980.476441"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
             landmarkName = "setupLayout()"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "calculator2/Views/NumberBtnView.swift"
-            timestampString = "582199842.961105"
+            timestampString = "582299980.476581"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
             landmarkName = "setupLayout()"
             landmarkType = "7">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "calculator2/Views/NumberBtnView.swift"
-            timestampString = "582199842.961306"
+            timestampString = "582299980.47712"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "226"
-            endingLineNumber = "226"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
             landmarkName = "setupLandscapeNumberBtnStackView()"
             landmarkType = "7">
          </BreakpointContent>
@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "calculator2/Views/NumberBtnView.swift"
-            timestampString = "582199842.961416"
+            timestampString = "582299980.477635"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "60"
-            endingLineNumber = "60"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "setupLayout()"
             landmarkType = "7">
          </BreakpointContent>
@@ -106,12 +106,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "calculator2/Controller/HomeController.swift"
-            timestampString = "582199842.961512"
+            timestampString = "582299980.4781229"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "166"
-            endingLineNumber = "166"
-            landmarkName = "plusMinus()"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "percentage()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

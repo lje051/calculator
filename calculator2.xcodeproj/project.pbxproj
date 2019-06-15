@@ -14,10 +14,8 @@
 		4E69D37E22B085A400D41DA2 /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D37422B085A300D41DA2 /* HomeController.swift */; };
 		4E69D37F22B085A400D41DA2 /* myStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D37622B085A300D41DA2 /* myStackView.swift */; };
 		4E69D38022B085A400D41DA2 /* NumberBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D37722B085A300D41DA2 /* NumberBtn.swift */; };
-		4E69D38122B085A400D41DA2 /* CardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D37922B085A300D41DA2 /* CardViewModel.swift */; };
 		4E69D38222B085A400D41DA2 /* NumberBtnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D37B22B085A400D41DA2 /* NumberBtnView.swift */; };
 		4E69D38322B085A400D41DA2 /* NumberlbView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D37C22B085A400D41DA2 /* NumberlbView.swift */; };
-		4E69D38422B085A400D41DA2 /* HomeBottomControlsStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D37D22B085A400D41DA2 /* HomeBottomControlsStackView.swift */; };
 		4E69D38622B085CA00D41DA2 /* Extensions+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E69D38522B085C900D41DA2 /* Extensions+UIView.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,10 +29,8 @@
 		4E69D37422B085A300D41DA2 /* HomeController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
 		4E69D37622B085A300D41DA2 /* myStackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myStackView.swift; sourceTree = "<group>"; };
 		4E69D37722B085A300D41DA2 /* NumberBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberBtn.swift; sourceTree = "<group>"; };
-		4E69D37922B085A300D41DA2 /* CardViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardViewModel.swift; sourceTree = "<group>"; };
 		4E69D37B22B085A400D41DA2 /* NumberBtnView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberBtnView.swift; sourceTree = "<group>"; };
 		4E69D37C22B085A400D41DA2 /* NumberlbView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberlbView.swift; sourceTree = "<group>"; };
-		4E69D37D22B085A400D41DA2 /* HomeBottomControlsStackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeBottomControlsStackView.swift; sourceTree = "<group>"; };
 		4E69D38522B085C900D41DA2 /* Extensions+UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Extensions+UIView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,7 +67,6 @@
 				4E69D38522B085C900D41DA2 /* Extensions+UIView.swift */,
 				4E69D37322B085A300D41DA2 /* Controller */,
 				4E69D37522B085A300D41DA2 /* Model */,
-				4E69D37822B085A300D41DA2 /* ViewModels */,
 				4E69D37A22B085A400D41DA2 /* Views */,
 				4E69D36122B084A300D41DA2 /* AppDelegate.swift */,
 				4E69D36522B084A300D41DA2 /* Main.storyboard */,
@@ -99,20 +94,11 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		4E69D37822B085A300D41DA2 /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-				4E69D37922B085A300D41DA2 /* CardViewModel.swift */,
-			);
-			path = ViewModels;
-			sourceTree = "<group>";
-		};
 		4E69D37A22B085A400D41DA2 /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				4E69D37B22B085A400D41DA2 /* NumberBtnView.swift */,
 				4E69D37C22B085A400D41DA2 /* NumberlbView.swift */,
-				4E69D37D22B085A400D41DA2 /* HomeBottomControlsStackView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -194,9 +180,7 @@
 				4E69D36222B084A300D41DA2 /* AppDelegate.swift in Sources */,
 				4E69D38322B085A400D41DA2 /* NumberlbView.swift in Sources */,
 				4E69D37F22B085A400D41DA2 /* myStackView.swift in Sources */,
-				4E69D38422B085A400D41DA2 /* HomeBottomControlsStackView.swift in Sources */,
 				4E69D38222B085A400D41DA2 /* NumberBtnView.swift in Sources */,
-				4E69D38122B085A400D41DA2 /* CardViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

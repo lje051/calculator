@@ -1,14 +1,14 @@
 //
-//  Advertiser.swift
-//  SwipeMatchFirestoreLBTA
+//  myStackView.swift
+//  calculator2
 //
-//  Created by Jeeeun Lim on 07/06/2019.
+//  Created by Jeeeun Lim on 12/06/2019.
 //  Copyright © 2019 ASPN. All rights reserved.
 //
 import UIKit
 import Foundation
 
-
+//편의를 위해 커스타마이징한 스택뷰
 class  myStackView:UIStackView {
   
   required init(coder aDecoder: NSCoder){
